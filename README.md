@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
--   PHP 8.2
--   Composer
+-   PHP ^8.2
+-   Composer ^2.76
 -   MySQL
 
 ## Installation Steps
