@@ -11,8 +11,8 @@
 ### 1. Clone Repository
 
 ```sh
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/dedektegarr/kepegawaian.git
+cd kepegawaian
 ```
 
 ### 2. Install Dependencies
@@ -56,13 +56,18 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-## Additional Commands
+## User Account
 
-### Clear Cache (Jika Terjadi Error Cache)
+### Admin
 
 ```sh
-php artisan cache:clear
-php artisan config:clear
-php artisan route:clear
-php artisan view:clear
+email: admin@gmail.com
+password: password12345
+```
+
+### Operator
+
+```sh
+email: operator@gmail.com
+password: password12345
 ```
