@@ -8,7 +8,7 @@
                 class="brand-image opacity-75 shadow">
             <!--end::Brand Image-->
             <!--begin::Brand Text-->
-            <span class="brand-text fw-light">Kepegawaian</span>
+            <span class="brand-text fw-light">SI Kepegawaian</span>
             <!--end::Brand Text-->
         </a>
         <!--end::Brand Link-->
@@ -30,7 +30,7 @@
                     <li class="nav-item">
                         <a href="{{ route('pegawai.index') }}" class="nav-link active">
                             <i class="nav-icon bi bi-person"></i>
-                            <p>Pegawai</p>
+                            <p>Data Pegawai</p>
                         </a>
                     </li>
                 </ul>

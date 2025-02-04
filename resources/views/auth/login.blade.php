@@ -17,7 +17,7 @@
 <body class="login-page bg-body-secondary app-loaded">
     <div class="login-box">
         <div class="login-logo">
-            <a href=""><b>Kepegawaian</b></a>
+            <a href=""><b>Sistem Kepegawaian</b></a>
         </div>
         <!-- /.login-logo -->
         <div class="card">
